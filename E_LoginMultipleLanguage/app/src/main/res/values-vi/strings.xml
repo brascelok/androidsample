@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Login Multiple Language</string>
-    <string name="welcome">Chào mừng</string>
-    <string name="email">Hộp thư</string>
-    <string name="password">Mật khẩu</string>
-    <string name="login">Đăng nhập</string>
-    <string name="signup">Đăng ký</string>
-</resources>

@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Login Multiple Language</string>
-    <string name="welcome">स्वागतम</string>
-    <string name="email">ईमेल पता</string>
-    <string name="password">पासवर्ड</string>
-    <string name="login">लॉगिन</string>
-    <string name="signup">खाता नहीं है? साइन अप करें</string>
-</resources>
