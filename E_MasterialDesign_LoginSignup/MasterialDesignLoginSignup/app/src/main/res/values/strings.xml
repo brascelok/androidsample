@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MasterialDesignLoginSignup</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="login">Login</string>
+    <string name="reg">Register</string>
+    <string name="desLogo">Logo</string>
+    <string name="tv_signup">No account yet? Create one</string>
+    <string name="tv_login">Already a member? Login</string>
+    <string name="name">Name</string>
+    <string name="createAcc">Creating Account...</string>
+</resources>
